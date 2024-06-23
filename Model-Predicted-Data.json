@@ -1,0 +1,1604 @@
+{
+"Sheet1":[
+ {
+  "Year": 2025,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2126,
+  "% Change of Rainfall with respect to 2024": 0.33034450212364325,
+  "Temperature (Degree Celcius)": 31.339597734465,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.039597734464997814
+ },
+ {
+  "Year": 2026,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2133,
+  "% Change of Rainfall with respect to 2024": 0.6606890042472865,
+  "Temperature (Degree Celcius)": 31.37573124480464,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.07573124480463989
+ },
+ {
+  "Year": 2027,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2140,
+  "% Change of Rainfall with respect to 2024": 0.9910335063709298,
+  "Temperature (Degree Celcius)": 31.41186475514429,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.11186475514428906
+ },
+ {
+  "Year": 2028,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2147,
+  "% Change of Rainfall with respect to 2024": 1.321378008494573,
+  "Temperature (Degree Celcius)": 31.44799826548395,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.1479982654839489
+ },
+ {
+  "Year": 2029,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2154,
+  "% Change of Rainfall with respect to 2024": 1.651722510618216,
+  "Temperature (Degree Celcius)": 31.48413177582358,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.1841317758235803
+ },
+ {
+  "Year": 2030,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2160,
+  "% Change of Rainfall with respect to 2024": 1.9348749410099102,
+  "Temperature (Degree Celcius)": 31.52026528616324,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.22026528616324015
+ },
+ {
+  "Year": 2031,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2166,
+  "% Change of Rainfall with respect to 2024": 2.2180273714016043,
+  "Temperature (Degree Celcius)": 31.55639879650289,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.2563987965028893
+ },
+ {
+  "Year": 2032,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2173,
+  "% Change of Rainfall with respect to 2024": 2.5483718735252476,
+  "Temperature (Degree Celcius)": 31.59253230684253,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.29253230684252784
+ },
+ {
+  "Year": 2033,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2179,
+  "% Change of Rainfall with respect to 2024": 2.8315243039169418,
+  "Temperature (Degree Celcius)": 31.62866581718218,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.3286658171821806
+ },
+ {
+  "Year": 2034,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2185,
+  "% Change of Rainfall with respect to 2024": 3.114676734308636,
+  "Temperature (Degree Celcius)": 31.66479932752183,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.36479932752182975
+ },
+ {
+  "Year": 2035,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2191,
+  "% Change of Rainfall with respect to 2024": 3.3978291647003305,
+  "Temperature (Degree Celcius)": 31.70093283786147,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.40093283786146827
+ },
+ {
+  "Year": 2036,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2197,
+  "% Change of Rainfall with respect to 2024": 3.6809815950920246,
+  "Temperature (Degree Celcius)": 31.73706634820113,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.4370663482011281
+ },
+ {
+  "Year": 2037,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2203,
+  "% Change of Rainfall with respect to 2024": 3.964134025483719,
+  "Temperature (Degree Celcius)": 31.77319985854078,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.47319985854078084
+ },
+ {
+  "Year": 2038,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2208,
+  "% Change of Rainfall with respect to 2024": 4.200094384143464,
+  "Temperature (Degree Celcius)": 31.80933336888042,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.5093333688804194
+ },
+ {
+  "Year": 2039,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2214,
+  "% Change of Rainfall with respect to 2024": 4.483246814535158,
+  "Temperature (Degree Celcius)": 31.84546687922007,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.5454668792200685
+ },
+ {
+  "Year": 2040,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2219,
+  "% Change of Rainfall with respect to 2024": 4.719207173194903,
+  "Temperature (Degree Celcius)": 31.88160038955972,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.5816003895597177
+ },
+ {
+  "Year": 2041,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2225,
+  "% Change of Rainfall with respect to 2024": 5.002359603586597,
+  "Temperature (Degree Celcius)": 31.91773389989936,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.6177338998993598
+ },
+ {
+  "Year": 2042,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2230,
+  "% Change of Rainfall with respect to 2024": 5.238319962246343,
+  "Temperature (Degree Celcius)": 31.95386741023901,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.653867410239009
+ },
+ {
+  "Year": 2043,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2235,
+  "% Change of Rainfall with respect to 2024": 5.474280320906088,
+  "Temperature (Degree Celcius)": 31.99000092057867,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.6900009205786688
+ },
+ {
+  "Year": 2044,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2240,
+  "% Change of Rainfall with respect to 2024": 5.710240679565834,
+  "Temperature (Degree Celcius)": 32.0261344309183,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.7261344309182967
+ },
+ {
+  "Year": 2045,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2245,
+  "% Change of Rainfall with respect to 2024": 5.946201038225578,
+  "Temperature (Degree Celcius)": 32.06226794125796,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.7622679412579565
+ },
+ {
+  "Year": 2046,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2250,
+  "% Change of Rainfall with respect to 2024": 6.1821613968853235,
+  "Temperature (Degree Celcius)": 32.09840145159761,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.7984014515976092
+ },
+ {
+  "Year": 2047,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2255,
+  "% Change of Rainfall with respect to 2024": 6.4181217555450685,
+  "Temperature (Degree Celcius)": 32.13453496193725,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.8345349619372477
+ },
+ {
+  "Year": 2048,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2259,
+  "% Change of Rainfall with respect to 2024": 6.606890042472864,
+  "Temperature (Degree Celcius)": 32.1706684722769,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.8706684722769005
+ },
+ {
+  "Year": 2049,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2264,
+  "% Change of Rainfall with respect to 2024": 6.842850401132609,
+  "Temperature (Degree Celcius)": 32.20680198261655,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.9068019826165461
+ },
+ {
+  "Year": 2050,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2268,
+  "% Change of Rainfall with respect to 2024": 7.031618688060407,
+  "Temperature (Degree Celcius)": 32.24293549295619,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.9429354929561917
+ },
+ {
+  "Year": 2051,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2272,
+  "% Change of Rainfall with respect to 2024": 7.220386974988202,
+  "Temperature (Degree Celcius)": 32.27906900329585,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.9790690032958516
+ },
+ {
+  "Year": 2052,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2277,
+  "% Change of Rainfall with respect to 2024": 7.4563473336479476,
+  "Temperature (Degree Celcius)": 32.3152025136355,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.0152025136354972
+ },
+ {
+  "Year": 2053,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2281,
+  "% Change of Rainfall with respect to 2024": 7.645115620575743,
+  "Temperature (Degree Celcius)": 32.35133602397514,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.0513360239751428
+ },
+ {
+  "Year": 2054,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2285,
+  "% Change of Rainfall with respect to 2024": 7.833883907503539,
+  "Temperature (Degree Celcius)": 32.38746953431479,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.0874695343147884
+ },
+ {
+  "Year": 2055,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2289,
+  "% Change of Rainfall with respect to 2024": 8.022652194431336,
+  "Temperature (Degree Celcius)": 32.42360304465444,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.1236030446544412
+ },
+ {
+  "Year": 2056,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2292,
+  "% Change of Rainfall with respect to 2024": 8.164228409627183,
+  "Temperature (Degree Celcius)": 32.45973655499408,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.1597365549940797
+ },
+ {
+  "Year": 2057,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2296,
+  "% Change of Rainfall with respect to 2024": 8.352996696554978,
+  "Temperature (Degree Celcius)": 32.49587006533373,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.1958700653337324
+ },
+ {
+  "Year": 2058,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2300,
+  "% Change of Rainfall with respect to 2024": 8.541764983482775,
+  "Temperature (Degree Celcius)": 32.53200357567339,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.2320035756733922
+ },
+ {
+  "Year": 2059,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2303,
+  "% Change of Rainfall with respect to 2024": 8.683341198678622,
+  "Temperature (Degree Celcius)": 32.56813708601302,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.2681370860130166
+ },
+ {
+  "Year": 2060,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2306,
+  "% Change of Rainfall with respect to 2024": 8.82491741387447,
+  "Temperature (Degree Celcius)": 32.60427059635268,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.3042705963526764
+ },
+ {
+  "Year": 2061,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2310,
+  "% Change of Rainfall with respect to 2024": 9.013685700802265,
+  "Temperature (Degree Celcius)": 32.64040410669233,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.3404041066923291
+ },
+ {
+  "Year": 2062,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2313,
+  "% Change of Rainfall with respect to 2024": 9.155261915998112,
+  "Temperature (Degree Celcius)": 32.67653761703197,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.3765376170319676
+ },
+ {
+  "Year": 2063,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2316,
+  "% Change of Rainfall with respect to 2024": 9.296838131193958,
+  "Temperature (Degree Celcius)": 32.71267112737162,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.4126711273716204
+ },
+ {
+  "Year": 2064,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2319,
+  "% Change of Rainfall with respect to 2024": 9.438414346389806,
+  "Temperature (Degree Celcius)": 32.74880463771127,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.448804637711266
+ },
+ {
+  "Year": 2065,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2321,
+  "% Change of Rainfall with respect to 2024": 9.532798489853704,
+  "Temperature (Degree Celcius)": 32.78493814805091,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.4849381480509116
+ },
+ {
+  "Year": 2066,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2324,
+  "% Change of Rainfall with respect to 2024": 9.674374705049551,
+  "Temperature (Degree Celcius)": 32.82107165839057,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.5210716583905715
+ },
+ {
+  "Year": 2067,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2327,
+  "% Change of Rainfall with respect to 2024": 9.815950920245399,
+  "Temperature (Degree Celcius)": 32.85720516873022,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.557205168730217
+ },
+ {
+  "Year": 2068,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2329,
+  "% Change of Rainfall with respect to 2024": 9.910335063709297,
+  "Temperature (Degree Celcius)": 32.89333867906986,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.5933386790698627
+ },
+ {
+  "Year": 2069,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2332,
+  "% Change of Rainfall with respect to 2024": 10.051911278905145,
+  "Temperature (Degree Celcius)": 32.92947218940951,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.6294721894095083
+ },
+ {
+  "Year": 2070,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2334,
+  "% Change of Rainfall with respect to 2024": 10.146295422369041,
+  "Temperature (Degree Celcius)": 32.96560569974916,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.665605699749161
+ },
+ {
+  "Year": 2071,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2336,
+  "% Change of Rainfall with respect to 2024": 10.24067956583294,
+  "Temperature (Degree Celcius)": 33.0017392100888,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.7017392100887996
+ },
+ {
+  "Year": 2072,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2338,
+  "% Change of Rainfall with respect to 2024": 10.335063709296838,
+  "Temperature (Degree Celcius)": 33.03787272042845,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.7378727204284523
+ },
+ {
+  "Year": 2073,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2340,
+  "% Change of Rainfall with respect to 2024": 10.429447852760736,
+  "Temperature (Degree Celcius)": 33.07400623076811,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.7740062307681121
+ },
+ {
+  "Year": 2074,
+  "Season": "Monsoon",
+  "Rainfall (mm)": 2342,
+  "% Change of Rainfall with respect to 2024": 10.523831996224635,
+  "Temperature (Degree Celcius)": 33.11013974110774,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.8101397411077365
+ },
+ {
+  "Year": 2025,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 157,
+  "% Change of Rainfall with respect to 2024": 0,
+  "Temperature (Degree Celcius)": 26.80545507120354,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.035455071203539745
+ },
+ {
+  "Year": 2026,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 156,
+  "% Change of Rainfall with respect to 2024": -0.6369426751592357,
+  "Temperature (Degree Celcius)": 26.83812474023271,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.06812474023271164
+ },
+ {
+  "Year": 2027,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 156,
+  "% Change of Rainfall with respect to 2024": -0.6369426751592357,
+  "Temperature (Degree Celcius)": 26.8707944092619,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.10079440926190131
+ },
+ {
+  "Year": 2028,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 156,
+  "% Change of Rainfall with respect to 2024": -0.6369426751592357,
+  "Temperature (Degree Celcius)": 26.90346407829108,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.1334640782910803
+ },
+ {
+  "Year": 2029,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 155,
+  "% Change of Rainfall with respect to 2024": -1.2738853503184715,
+  "Temperature (Degree Celcius)": 26.93613374732026,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.16613374732025932
+ },
+ {
+  "Year": 2030,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 155,
+  "% Change of Rainfall with respect to 2024": -1.2738853503184715,
+  "Temperature (Degree Celcius)": 26.96880341634945,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.19880341634944898
+ },
+ {
+  "Year": 2031,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 155,
+  "% Change of Rainfall with respect to 2024": -1.2738853503184715,
+  "Temperature (Degree Celcius)": 27.00147308537862,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.23147308537862088
+ },
+ {
+  "Year": 2032,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 154,
+  "% Change of Rainfall with respect to 2024": -1.910828025477707,
+  "Temperature (Degree Celcius)": 27.03414275440781,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.26414275440781054
+ },
+ {
+  "Year": 2033,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 154,
+  "% Change of Rainfall with respect to 2024": -1.910828025477707,
+  "Temperature (Degree Celcius)": 27.06681242343699,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.29681242343698955
+ },
+ {
+  "Year": 2034,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 154,
+  "% Change of Rainfall with respect to 2024": -1.910828025477707,
+  "Temperature (Degree Celcius)": 27.09948209246616,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.32948209246616145
+ },
+ {
+  "Year": 2035,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 153,
+  "% Change of Rainfall with respect to 2024": -2.547770700636943,
+  "Temperature (Degree Celcius)": 27.13215176149535,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.3621517614953511
+ },
+ {
+  "Year": 2036,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 153,
+  "% Change of Rainfall with respect to 2024": -2.547770700636943,
+  "Temperature (Degree Celcius)": 27.16482143052453,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.3948214305245301
+ },
+ {
+  "Year": 2037,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 153,
+  "% Change of Rainfall with respect to 2024": -2.547770700636943,
+  "Temperature (Degree Celcius)": 27.19749109955372,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.4274910995537198
+ },
+ {
+  "Year": 2038,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 152,
+  "% Change of Rainfall with respect to 2024": -3.1847133757961785,
+  "Temperature (Degree Celcius)": 27.23016076858289,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.4601607685828917
+ },
+ {
+  "Year": 2039,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 152,
+  "% Change of Rainfall with respect to 2024": -3.1847133757961785,
+  "Temperature (Degree Celcius)": 27.26283043761207,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.4928304376120707
+ },
+ {
+  "Year": 2040,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 152,
+  "% Change of Rainfall with respect to 2024": -3.1847133757961785,
+  "Temperature (Degree Celcius)": 27.29550010664126,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.5255001066412603
+ },
+ {
+  "Year": 2041,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 151,
+  "% Change of Rainfall with respect to 2024": -3.821656050955414,
+  "Temperature (Degree Celcius)": 27.32816977567043,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.5581697756704287
+ },
+ {
+  "Year": 2042,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 151,
+  "% Change of Rainfall with respect to 2024": -3.821656050955414,
+  "Temperature (Degree Celcius)": 27.36083944469962,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.5908394446996219
+ },
+ {
+  "Year": 2043,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 151,
+  "% Change of Rainfall with respect to 2024": -3.821656050955414,
+  "Temperature (Degree Celcius)": 27.3935091137288,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.6235091137288009
+ },
+ {
+  "Year": 2044,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 150,
+  "% Change of Rainfall with respect to 2024": -4.45859872611465,
+  "Temperature (Degree Celcius)": 27.42617878275797,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.6561787827579693
+ },
+ {
+  "Year": 2045,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 150,
+  "% Change of Rainfall with respect to 2024": -4.45859872611465,
+  "Temperature (Degree Celcius)": 27.45884845178716,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.6888484517871589
+ },
+ {
+  "Year": 2046,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 150,
+  "% Change of Rainfall with respect to 2024": -4.45859872611465,
+  "Temperature (Degree Celcius)": 27.49151812081634,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.7215181208163415
+ },
+ {
+  "Year": 2047,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 149,
+  "% Change of Rainfall with respect to 2024": -5.095541401273886,
+  "Temperature (Degree Celcius)": 27.52418778984553,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.7541877898455311
+ },
+ {
+  "Year": 2048,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 149,
+  "% Change of Rainfall with respect to 2024": -5.095541401273886,
+  "Temperature (Degree Celcius)": 27.5568574588747,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.7868574588746995
+ },
+ {
+  "Year": 2049,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 149,
+  "% Change of Rainfall with respect to 2024": -5.095541401273886,
+  "Temperature (Degree Celcius)": 27.58952712790388,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.819527127903882
+ },
+ {
+  "Year": 2050,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 148,
+  "% Change of Rainfall with respect to 2024": -5.7324840764331215,
+  "Temperature (Degree Celcius)": 27.62219679693307,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.8521967969330717
+ },
+ {
+  "Year": 2051,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 148,
+  "% Change of Rainfall with respect to 2024": -5.7324840764331215,
+  "Temperature (Degree Celcius)": 27.65486646596224,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.8848664659622401
+ },
+ {
+  "Year": 2052,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 148,
+  "% Change of Rainfall with respect to 2024": -5.7324840764331215,
+  "Temperature (Degree Celcius)": 27.68753613499143,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.9175361349914297
+ },
+ {
+  "Year": 2053,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 147,
+  "% Change of Rainfall with respect to 2024": -6.369426751592357,
+  "Temperature (Degree Celcius)": 27.72020580402061,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.9502058040206087
+ },
+ {
+  "Year": 2054,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 147,
+  "% Change of Rainfall with respect to 2024": -6.369426751592357,
+  "Temperature (Degree Celcius)": 27.75287547304978,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.9828754730497806
+ },
+ {
+  "Year": 2055,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 147,
+  "% Change of Rainfall with respect to 2024": -6.369426751592357,
+  "Temperature (Degree Celcius)": 27.78554514207897,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.0155451420789703
+ },
+ {
+  "Year": 2056,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 146,
+  "% Change of Rainfall with respect to 2024": -7.006369426751593,
+  "Temperature (Degree Celcius)": 27.81821481110815,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.0482148111081493
+ },
+ {
+  "Year": 2057,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 146,
+  "% Change of Rainfall with respect to 2024": -7.006369426751593,
+  "Temperature (Degree Celcius)": 27.85088448013734,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.080884480137339
+ },
+ {
+  "Year": 2058,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 146,
+  "% Change of Rainfall with respect to 2024": -7.006369426751593,
+  "Temperature (Degree Celcius)": 27.88355414916651,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.1135541491665109
+ },
+ {
+  "Year": 2059,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 146,
+  "% Change of Rainfall with respect to 2024": -7.006369426751593,
+  "Temperature (Degree Celcius)": 27.91622381819569,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.1462238181956899
+ },
+ {
+  "Year": 2060,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 145,
+  "% Change of Rainfall with respect to 2024": -7.643312101910828,
+  "Temperature (Degree Celcius)": 27.94889348722488,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.1788934872248795
+ },
+ {
+  "Year": 2061,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 145,
+  "% Change of Rainfall with respect to 2024": -7.643312101910828,
+  "Temperature (Degree Celcius)": 27.98156315625405,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.2115631562540514
+ },
+ {
+  "Year": 2062,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 145,
+  "% Change of Rainfall with respect to 2024": -7.643312101910828,
+  "Temperature (Degree Celcius)": 28.01423282528324,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.244232825283241
+ },
+ {
+  "Year": 2063,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 144,
+  "% Change of Rainfall with respect to 2024": -8.280254777070063,
+  "Temperature (Degree Celcius)": 28.04690249431242,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.27690249431242
+ },
+ {
+  "Year": 2064,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 144,
+  "% Change of Rainfall with respect to 2024": -8.280254777070063,
+  "Temperature (Degree Celcius)": 28.0795721633416,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.309572163341599
+ },
+ {
+  "Year": 2065,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 144,
+  "% Change of Rainfall with respect to 2024": -8.280254777070063,
+  "Temperature (Degree Celcius)": 28.11224183237078,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.3422418323707817
+ },
+ {
+  "Year": 2066,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 143,
+  "% Change of Rainfall with respect to 2024": -8.9171974522293,
+  "Temperature (Degree Celcius)": 28.14491150139996,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.3749115013999607
+ },
+ {
+  "Year": 2067,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 143,
+  "% Change of Rainfall with respect to 2024": -8.9171974522293,
+  "Temperature (Degree Celcius)": 28.17758117042915,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.4075811704291503
+ },
+ {
+  "Year": 2068,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 143,
+  "% Change of Rainfall with respect to 2024": -8.9171974522293,
+  "Temperature (Degree Celcius)": 28.21025083945833,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.4402508394583293
+ },
+ {
+  "Year": 2069,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 142,
+  "% Change of Rainfall with respect to 2024": -9.554140127388536,
+  "Temperature (Degree Celcius)": 28.2429205084875,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.4729205084875012
+ },
+ {
+  "Year": 2070,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 142,
+  "% Change of Rainfall with respect to 2024": -9.554140127388536,
+  "Temperature (Degree Celcius)": 28.27559017751669,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.5055901775166909
+ },
+ {
+  "Year": 2071,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 142,
+  "% Change of Rainfall with respect to 2024": -9.554140127388536,
+  "Temperature (Degree Celcius)": 28.30825984654587,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.53825984654587
+ },
+ {
+  "Year": 2072,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 141,
+  "% Change of Rainfall with respect to 2024": -10.191082802547772,
+  "Temperature (Degree Celcius)": 28.34092951557506,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.5709295155750596
+ },
+ {
+  "Year": 2073,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 141,
+  "% Change of Rainfall with respect to 2024": -10.191082802547772,
+  "Temperature (Degree Celcius)": 28.37359918460423,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.6035991846042315
+ },
+ {
+  "Year": 2074,
+  "Season": "Postmonsoon",
+  "Rainfall (mm)": 141,
+  "% Change of Rainfall with respect to 2024": -10.191082802547772,
+  "Temperature (Degree Celcius)": 28.40626885363341,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.6362688536334105
+ },
+ {
+  "Year": 2025,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 423,
+  "% Change of Rainfall with respect to 2024": 0,
+  "Temperature (Degree Celcius)": 28.85644560018082,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.036445600180819326
+ },
+ {
+  "Year": 2026,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 424,
+  "% Change of Rainfall with respect to 2024": 0.2364066193853428,
+  "Temperature (Degree Celcius)": 28.89336749272651,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.07336749272651133
+ },
+ {
+  "Year": 2027,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 425,
+  "% Change of Rainfall with respect to 2024": 0.4728132387706856,
+  "Temperature (Degree Celcius)": 28.93028938527219,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.11028938527218912
+ },
+ {
+  "Year": 2028,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 426,
+  "% Change of Rainfall with respect to 2024": 0.7092198581560284,
+  "Temperature (Degree Celcius)": 28.96721127781787,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.14721127781787047
+ },
+ {
+  "Year": 2029,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 426,
+  "% Change of Rainfall with respect to 2024": 0.7092198581560284,
+  "Temperature (Degree Celcius)": 29.00413317036356,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.18413317036355892
+ },
+ {
+  "Year": 2030,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 427,
+  "% Change of Rainfall with respect to 2024": 0.9456264775413712,
+  "Temperature (Degree Celcius)": 29.04105506290924,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.22105506290924026
+ },
+ {
+  "Year": 2031,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 428,
+  "% Change of Rainfall with respect to 2024": 1.1820330969267139,
+  "Temperature (Degree Celcius)": 29.07797695545491,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.25797695545491095
+ },
+ {
+  "Year": 2032,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 429,
+  "% Change of Rainfall with respect to 2024": 1.4184397163120568,
+  "Temperature (Degree Celcius)": 29.11489884800061,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.29489884800061006
+ },
+ {
+  "Year": 2033,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 429,
+  "% Change of Rainfall with respect to 2024": 1.4184397163120568,
+  "Temperature (Degree Celcius)": 29.15182074054628,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.33182074054628075
+ },
+ {
+  "Year": 2034,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 430,
+  "% Change of Rainfall with respect to 2024": 1.6548463356973995,
+  "Temperature (Degree Celcius)": 29.18874263309196,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.36874263309195854
+ },
+ {
+  "Year": 2035,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 431,
+  "% Change of Rainfall with respect to 2024": 1.8912529550827424,
+  "Temperature (Degree Celcius)": 29.22566452563765,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.40566452563765054
+ },
+ {
+  "Year": 2036,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 432,
+  "% Change of Rainfall with respect to 2024": 2.127659574468085,
+  "Temperature (Degree Celcius)": 29.26258641818333,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.44258641818332833
+ },
+ {
+  "Year": 2037,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 433,
+  "% Change of Rainfall with respect to 2024": 2.3640661938534278,
+  "Temperature (Degree Celcius)": 29.29950831072901,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.4795083107290097
+ },
+ {
+  "Year": 2038,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 434,
+  "% Change of Rainfall with respect to 2024": 2.6004728132387704,
+  "Temperature (Degree Celcius)": 29.3364302032747,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.5164302032746981
+ },
+ {
+  "Year": 2039,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 435,
+  "% Change of Rainfall with respect to 2024": 2.8368794326241136,
+  "Temperature (Degree Celcius)": 29.37335209582038,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.5533520958203795
+ },
+ {
+  "Year": 2040,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 436,
+  "% Change of Rainfall with respect to 2024": 3.0732860520094563,
+  "Temperature (Degree Celcius)": 29.41027398836606,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.5902739883660608
+ },
+ {
+  "Year": 2041,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 437,
+  "% Change of Rainfall with respect to 2024": 3.309692671394799,
+  "Temperature (Degree Celcius)": 29.44719588091175,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.6271958809117493
+ },
+ {
+  "Year": 2042,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 438,
+  "% Change of Rainfall with respect to 2024": 3.546099290780142,
+  "Temperature (Degree Celcius)": 29.48411777345743,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.6641177734574306
+ },
+ {
+  "Year": 2043,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 439,
+  "% Change of Rainfall with respect to 2024": 3.7825059101654848,
+  "Temperature (Degree Celcius)": 29.52103966600311,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.7010396660031084
+ },
+ {
+  "Year": 2044,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 440,
+  "% Change of Rainfall with respect to 2024": 4.0189125295508275,
+  "Temperature (Degree Celcius)": 29.5579615585488,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.7379615585488004
+ },
+ {
+  "Year": 2045,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 441,
+  "% Change of Rainfall with respect to 2024": 4.25531914893617,
+  "Temperature (Degree Celcius)": 29.59488345109447,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.7748834510944711
+ },
+ {
+  "Year": 2046,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 442,
+  "% Change of Rainfall with respect to 2024": 4.491725768321513,
+  "Temperature (Degree Celcius)": 29.63180534364015,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.8118053436401489
+ },
+ {
+  "Year": 2047,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 443,
+  "% Change of Rainfall with respect to 2024": 4.7281323877068555,
+  "Temperature (Degree Celcius)": 29.66872723618584,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.8487272361858409
+ },
+ {
+  "Year": 2048,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 444,
+  "% Change of Rainfall with respect to 2024": 4.964539007092199,
+  "Temperature (Degree Celcius)": 29.70564912873152,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.8856491287315187
+ },
+ {
+  "Year": 2049,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 445,
+  "% Change of Rainfall with respect to 2024": 5.200945626477541,
+  "Temperature (Degree Celcius)": 29.7425710212772,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.9225710212772
+ },
+ {
+  "Year": 2050,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 446,
+  "% Change of Rainfall with respect to 2024": 5.4373522458628845,
+  "Temperature (Degree Celcius)": 29.77949291382289,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.9594929138228885
+ },
+ {
+  "Year": 2051,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 448,
+  "% Change of Rainfall with respect to 2024": 5.91016548463357,
+  "Temperature (Degree Celcius)": 29.81641480636857,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.9964148063685698
+ },
+ {
+  "Year": 2052,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 449,
+  "% Change of Rainfall with respect to 2024": 6.1465721040189125,
+  "Temperature (Degree Celcius)": 29.85333669891425,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.0333366989142512
+ },
+ {
+  "Year": 2053,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 450,
+  "% Change of Rainfall with respect to 2024": 6.382978723404255,
+  "Temperature (Degree Celcius)": 29.89025859145994,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.0702585914599396
+ },
+ {
+  "Year": 2054,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 451,
+  "% Change of Rainfall with respect to 2024": 6.619385342789598,
+  "Temperature (Degree Celcius)": 29.92718048400562,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.107180484005621
+ },
+ {
+  "Year": 2055,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 453,
+  "% Change of Rainfall with respect to 2024": 7.092198581560284,
+  "Temperature (Degree Celcius)": 29.9641023765513,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.1441023765512988
+ },
+ {
+  "Year": 2056,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 454,
+  "% Change of Rainfall with respect to 2024": 7.328605200945626,
+  "Temperature (Degree Celcius)": 30.00102426909699,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.1810242690969908
+ },
+ {
+  "Year": 2057,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 455,
+  "% Change of Rainfall with respect to 2024": 7.5650118203309695,
+  "Temperature (Degree Celcius)": 30.03794616164267,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.2179461616426686
+ },
+ {
+  "Year": 2058,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 457,
+  "% Change of Rainfall with respect to 2024": 8.037825059101655,
+  "Temperature (Degree Celcius)": 30.07486805418834,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.2548680541883392
+ },
+ {
+  "Year": 2059,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 458,
+  "% Change of Rainfall with respect to 2024": 8.274231678486997,
+  "Temperature (Degree Celcius)": 30.11178994673404,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.2917899467340384
+ },
+ {
+  "Year": 2060,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 459,
+  "% Change of Rainfall with respect to 2024": 8.51063829787234,
+  "Temperature (Degree Celcius)": 30.14871183927971,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.328711839279709
+ },
+ {
+  "Year": 2061,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 461,
+  "% Change of Rainfall with respect to 2024": 8.983451536643026,
+  "Temperature (Degree Celcius)": 30.18563373182539,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.3656337318253904
+ },
+ {
+  "Year": 2062,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 462,
+  "% Change of Rainfall with respect to 2024": 9.219858156028367,
+  "Temperature (Degree Celcius)": 30.22255562437108,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.4025556243710788
+ },
+ {
+  "Year": 2063,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 464,
+  "% Change of Rainfall with respect to 2024": 9.692671394799055,
+  "Temperature (Degree Celcius)": 30.25947751691676,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.4394775169167602
+ },
+ {
+  "Year": 2064,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 465,
+  "% Change of Rainfall with respect to 2024": 9.929078014184398,
+  "Temperature (Degree Celcius)": 30.29639940946244,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.476399409462438
+ },
+ {
+  "Year": 2065,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 467,
+  "% Change of Rainfall with respect to 2024": 10.401891252955082,
+  "Temperature (Degree Celcius)": 30.33332130200813,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.51332130200813
+ },
+ {
+  "Year": 2066,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 468,
+  "% Change of Rainfall with respect to 2024": 10.638297872340425,
+  "Temperature (Degree Celcius)": 30.37024319455381,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.5502431945538113
+ },
+ {
+  "Year": 2067,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 470,
+  "% Change of Rainfall with respect to 2024": 11.11111111111111,
+  "Temperature (Degree Celcius)": 30.40716508709949,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.5871650870994891
+ },
+ {
+  "Year": 2068,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 472,
+  "% Change of Rainfall with respect to 2024": 11.583924349881796,
+  "Temperature (Degree Celcius)": 30.44408697964518,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.6240869796451811
+ },
+ {
+  "Year": 2069,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 473,
+  "% Change of Rainfall with respect to 2024": 11.82033096926714,
+  "Temperature (Degree Celcius)": 30.48100887219086,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.661008872190859
+ },
+ {
+  "Year": 2070,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 475,
+  "% Change of Rainfall with respect to 2024": 12.293144208037825,
+  "Temperature (Degree Celcius)": 30.51793076473653,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.6979307647365296
+ },
+ {
+  "Year": 2071,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 477,
+  "% Change of Rainfall with respect to 2024": 12.76595744680851,
+  "Temperature (Degree Celcius)": 30.55485265728223,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.7348526572822287
+ },
+ {
+  "Year": 2072,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 478,
+  "% Change of Rainfall with respect to 2024": 13.002364066193852,
+  "Temperature (Degree Celcius)": 30.5917745498279,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.7717745498278994
+ },
+ {
+  "Year": 2073,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 480,
+  "% Change of Rainfall with respect to 2024": 13.47517730496454,
+  "Temperature (Degree Celcius)": 30.62869644237358,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.8086964423735807
+ },
+ {
+  "Year": 2074,
+  "Season": "Premonsoon",
+  "Rainfall (mm)": 482,
+  "% Change of Rainfall with respect to 2024": 13.947990543735225,
+  "Temperature (Degree Celcius)": 30.66561833491927,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.8456183349192692
+ },
+ {
+  "Year": 2025,
+  "Season": "Winter",
+  "Rainfall (mm)": 221,
+  "% Change of Rainfall with respect to 2024": 0,
+  "Temperature (Degree Celcius)": 22.64072913476544,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.07072913476543974
+ },
+ {
+  "Year": 2026,
+  "Season": "Winter",
+  "Rainfall (mm)": 222,
+  "% Change of Rainfall with respect to 2024": 0.4524886877828055,
+  "Temperature (Degree Celcius)": 22.7129864141729,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.14298641417289915
+ },
+ {
+  "Year": 2027,
+  "Season": "Winter",
+  "Rainfall (mm)": 222,
+  "% Change of Rainfall with respect to 2024": 0.4524886877828055,
+  "Temperature (Degree Celcius)": 22.78524369358037,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.2152436935803692
+ },
+ {
+  "Year": 2028,
+  "Season": "Winter",
+  "Rainfall (mm)": 222,
+  "% Change of Rainfall with respect to 2024": 0.4524886877828055,
+  "Temperature (Degree Celcius)": 22.85750097298786,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.2875009729878606
+ },
+ {
+  "Year": 2029,
+  "Season": "Winter",
+  "Rainfall (mm)": 222,
+  "% Change of Rainfall with respect to 2024": 0.4524886877828055,
+  "Temperature (Degree Celcius)": 22.92975825239533,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.35975825239533066
+ },
+ {
+  "Year": 2030,
+  "Season": "Winter",
+  "Rainfall (mm)": 222,
+  "% Change of Rainfall with respect to 2024": 0.4524886877828055,
+  "Temperature (Degree Celcius)": 23.0020155318028,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.4320155318028007
+ },
+ {
+  "Year": 2031,
+  "Season": "Winter",
+  "Rainfall (mm)": 222,
+  "% Change of Rainfall with respect to 2024": 0.4524886877828055,
+  "Temperature (Degree Celcius)": 23.07427281121029,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.5042728112102886
+ },
+ {
+  "Year": 2032,
+  "Season": "Winter",
+  "Rainfall (mm)": 223,
+  "% Change of Rainfall with respect to 2024": 0.904977375565611,
+  "Temperature (Degree Celcius)": 23.14653009061776,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.5765300906177586
+ },
+ {
+  "Year": 2033,
+  "Season": "Winter",
+  "Rainfall (mm)": 223,
+  "% Change of Rainfall with respect to 2024": 0.904977375565611,
+  "Temperature (Degree Celcius)": 23.21878737002523,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.6487873700252287
+ },
+ {
+  "Year": 2034,
+  "Season": "Winter",
+  "Rainfall (mm)": 223,
+  "% Change of Rainfall with respect to 2024": 0.904977375565611,
+  "Temperature (Degree Celcius)": 23.29104464943272,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.7210446494327201
+ },
+ {
+  "Year": 2035,
+  "Season": "Winter",
+  "Rainfall (mm)": 223,
+  "% Change of Rainfall with respect to 2024": 0.904977375565611,
+  "Temperature (Degree Celcius)": 23.36330192884019,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.7933019288401901
+ },
+ {
+  "Year": 2036,
+  "Season": "Winter",
+  "Rainfall (mm)": 223,
+  "% Change of Rainfall with respect to 2024": 0.904977375565611,
+  "Temperature (Degree Celcius)": 23.43555920824765,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.8655592082476495
+ },
+ {
+  "Year": 2037,
+  "Season": "Winter",
+  "Rainfall (mm)": 223,
+  "% Change of Rainfall with respect to 2024": 0.904977375565611,
+  "Temperature (Degree Celcius)": 23.50781648765515,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 0.937816487655148
+ },
+ {
+  "Year": 2038,
+  "Season": "Winter",
+  "Rainfall (mm)": 223,
+  "% Change of Rainfall with respect to 2024": 0.904977375565611,
+  "Temperature (Degree Celcius)": 23.58007376706261,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.010073767062611
+ },
+ {
+  "Year": 2039,
+  "Season": "Winter",
+  "Rainfall (mm)": 224,
+  "% Change of Rainfall with respect to 2024": 1.3574660633484164,
+  "Temperature (Degree Celcius)": 23.65233104647008,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.082331046470081
+ },
+ {
+  "Year": 2040,
+  "Season": "Winter",
+  "Rainfall (mm)": 224,
+  "% Change of Rainfall with respect to 2024": 1.3574660633484164,
+  "Temperature (Degree Celcius)": 23.72458832587755,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.1545883258775511
+ },
+ {
+  "Year": 2041,
+  "Season": "Winter",
+  "Rainfall (mm)": 224,
+  "% Change of Rainfall with respect to 2024": 1.3574660633484164,
+  "Temperature (Degree Celcius)": 23.79684560528504,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.226845605285039
+ },
+ {
+  "Year": 2042,
+  "Season": "Winter",
+  "Rainfall (mm)": 224,
+  "% Change of Rainfall with respect to 2024": 1.3574660633484164,
+  "Temperature (Degree Celcius)": 23.86910288469251,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.299102884692509
+ },
+ {
+  "Year": 2043,
+  "Season": "Winter",
+  "Rainfall (mm)": 224,
+  "% Change of Rainfall with respect to 2024": 1.3574660633484164,
+  "Temperature (Degree Celcius)": 23.94136016409998,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.371360164099979
+ },
+ {
+  "Year": 2044,
+  "Season": "Winter",
+  "Rainfall (mm)": 224,
+  "% Change of Rainfall with respect to 2024": 1.3574660633484164,
+  "Temperature (Degree Celcius)": 24.01361744350747,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.4436174435074705
+ },
+ {
+  "Year": 2045,
+  "Season": "Winter",
+  "Rainfall (mm)": 224,
+  "% Change of Rainfall with respect to 2024": 1.3574660633484164,
+  "Temperature (Degree Celcius)": 24.08587472291494,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.5158747229149405
+ },
+ {
+  "Year": 2046,
+  "Season": "Winter",
+  "Rainfall (mm)": 225,
+  "% Change of Rainfall with respect to 2024": 1.809954751131222,
+  "Temperature (Degree Celcius)": 24.1581320023224,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.5881320023224
+ },
+ {
+  "Year": 2047,
+  "Season": "Winter",
+  "Rainfall (mm)": 225,
+  "% Change of Rainfall with respect to 2024": 1.809954751131222,
+  "Temperature (Degree Celcius)": 24.2303892817299,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.6603892817298984
+ },
+ {
+  "Year": 2048,
+  "Season": "Winter",
+  "Rainfall (mm)": 225,
+  "% Change of Rainfall with respect to 2024": 1.809954751131222,
+  "Temperature (Degree Celcius)": 24.30264656113737,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.7326465611373685
+ },
+ {
+  "Year": 2049,
+  "Season": "Winter",
+  "Rainfall (mm)": 225,
+  "% Change of Rainfall with respect to 2024": 1.809954751131222,
+  "Temperature (Degree Celcius)": 24.37490384054483,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.8049038405448314
+ },
+ {
+  "Year": 2050,
+  "Season": "Winter",
+  "Rainfall (mm)": 225,
+  "% Change of Rainfall with respect to 2024": 1.809954751131222,
+  "Temperature (Degree Celcius)": 24.44716111995233,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.87716111995233
+ },
+ {
+  "Year": 2051,
+  "Season": "Winter",
+  "Rainfall (mm)": 225,
+  "% Change of Rainfall with respect to 2024": 1.809954751131222,
+  "Temperature (Degree Celcius)": 24.51941839935979,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 1.9494183993597893
+ },
+ {
+  "Year": 2052,
+  "Season": "Winter",
+  "Rainfall (mm)": 225,
+  "% Change of Rainfall with respect to 2024": 1.809954751131222,
+  "Temperature (Degree Celcius)": 24.59167567876726,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.0216756787672594
+ },
+ {
+  "Year": 2053,
+  "Season": "Winter",
+  "Rainfall (mm)": 226,
+  "% Change of Rainfall with respect to 2024": 2.262443438914027,
+  "Temperature (Degree Celcius)": 24.66393295817475,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.093932958174751
+ },
+ {
+  "Year": 2054,
+  "Season": "Winter",
+  "Rainfall (mm)": 226,
+  "% Change of Rainfall with respect to 2024": 2.262443438914027,
+  "Temperature (Degree Celcius)": 24.73619023758222,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.166190237582221
+ },
+ {
+  "Year": 2055,
+  "Season": "Winter",
+  "Rainfall (mm)": 226,
+  "% Change of Rainfall with respect to 2024": 2.262443438914027,
+  "Temperature (Degree Celcius)": 24.80844751698969,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.238447516989691
+ },
+ {
+  "Year": 2056,
+  "Season": "Winter",
+  "Rainfall (mm)": 226,
+  "% Change of Rainfall with respect to 2024": 2.262443438914027,
+  "Temperature (Degree Celcius)": 24.88070479639718,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.3107047963971787
+ },
+ {
+  "Year": 2057,
+  "Season": "Winter",
+  "Rainfall (mm)": 226,
+  "% Change of Rainfall with respect to 2024": 2.262443438914027,
+  "Temperature (Degree Celcius)": 24.95296207580465,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.382962075804649
+ },
+ {
+  "Year": 2058,
+  "Season": "Winter",
+  "Rainfall (mm)": 226,
+  "% Change of Rainfall with respect to 2024": 2.262443438914027,
+  "Temperature (Degree Celcius)": 25.02521935521212,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.455219355212119
+ },
+ {
+  "Year": 2059,
+  "Season": "Winter",
+  "Rainfall (mm)": 227,
+  "% Change of Rainfall with respect to 2024": 2.7149321266968327,
+  "Temperature (Degree Celcius)": 25.09747663461958,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.5274766346195783
+ },
+ {
+  "Year": 2060,
+  "Season": "Winter",
+  "Rainfall (mm)": 227,
+  "% Change of Rainfall with respect to 2024": 2.7149321266968327,
+  "Temperature (Degree Celcius)": 25.16973391402708,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.5997339140270803
+ },
+ {
+  "Year": 2061,
+  "Season": "Winter",
+  "Rainfall (mm)": 227,
+  "% Change of Rainfall with respect to 2024": 2.7149321266968327,
+  "Temperature (Degree Celcius)": 25.24199119343454,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.6719911934345397
+ },
+ {
+  "Year": 2062,
+  "Season": "Winter",
+  "Rainfall (mm)": 227,
+  "% Change of Rainfall with respect to 2024": 2.7149321266968327,
+  "Temperature (Degree Celcius)": 25.31424847284201,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.74424847284201
+ },
+ {
+  "Year": 2063,
+  "Season": "Winter",
+  "Rainfall (mm)": 227,
+  "% Change of Rainfall with respect to 2024": 2.7149321266968327,
+  "Temperature (Degree Celcius)": 25.38650575224951,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.8165057522495083
+ },
+ {
+  "Year": 2064,
+  "Season": "Winter",
+  "Rainfall (mm)": 227,
+  "% Change of Rainfall with respect to 2024": 2.7149321266968327,
+  "Temperature (Degree Celcius)": 25.45876303165697,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.8887630316569712
+ },
+ {
+  "Year": 2065,
+  "Season": "Winter",
+  "Rainfall (mm)": 227,
+  "% Change of Rainfall with respect to 2024": 2.7149321266968327,
+  "Temperature (Degree Celcius)": 25.53102031106444,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 2.9610203110644413
+ },
+ {
+  "Year": 2066,
+  "Season": "Winter",
+  "Rainfall (mm)": 228,
+  "% Change of Rainfall with respect to 2024": 3.167420814479638,
+  "Temperature (Degree Celcius)": 25.60327759047193,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 3.033277590471929
+ },
+ {
+  "Year": 2067,
+  "Season": "Winter",
+  "Rainfall (mm)": 228,
+  "% Change of Rainfall with respect to 2024": 3.167420814479638,
+  "Temperature (Degree Celcius)": 25.6755348698794,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 3.105534869879399
+ },
+ {
+  "Year": 2068,
+  "Season": "Winter",
+  "Rainfall (mm)": 228,
+  "% Change of Rainfall with respect to 2024": 3.167420814479638,
+  "Temperature (Degree Celcius)": 25.74779214928687,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 3.1777921492868693
+ },
+ {
+  "Year": 2069,
+  "Season": "Winter",
+  "Rainfall (mm)": 228,
+  "% Change of Rainfall with respect to 2024": 3.167420814479638,
+  "Temperature (Degree Celcius)": 25.82004942869436,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 3.2500494286943606
+ },
+ {
+  "Year": 2070,
+  "Season": "Winter",
+  "Rainfall (mm)": 228,
+  "% Change of Rainfall with respect to 2024": 3.167420814479638,
+  "Temperature (Degree Celcius)": 25.89230670810183,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 3.3223067081018307
+ },
+ {
+  "Year": 2071,
+  "Season": "Winter",
+  "Rainfall (mm)": 228,
+  "% Change of Rainfall with respect to 2024": 3.167420814479638,
+  "Temperature (Degree Celcius)": 25.96456398750929,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 3.39456398750929
+ },
+ {
+  "Year": 2072,
+  "Season": "Winter",
+  "Rainfall (mm)": 228,
+  "% Change of Rainfall with respect to 2024": 3.167420814479638,
+  "Temperature (Degree Celcius)": 26.03682126691679,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 3.4668212669167886
+ },
+ {
+  "Year": 2073,
+  "Season": "Winter",
+  "Rainfall (mm)": 229,
+  "% Change of Rainfall with respect to 2024": 3.619909502262444,
+  "Temperature (Degree Celcius)": 26.10907854632426,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 3.5390785463242587
+ },
+ {
+  "Year": 2074,
+  "Season": "Winter",
+  "Rainfall (mm)": 229,
+  "% Change of Rainfall with respect to 2024": 3.619909502262444,
+  "Temperature (Degree Celcius)": 26.18133582573172,
+  "Change of Temperature (Degree Celcius) with respect to 2024": 3.611335825731718
+ }
+]
+}

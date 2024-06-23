@@ -1,0 +1,115 @@
+<!-- climate/templates/climate/query_climate_data.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Climate Data Query</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin-top: 5%;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        form {
+            margin-bottom: 20px;
+        }
+        form label {
+            font-weight: bold;
+            display: block;
+            margin-bottom: 8px;
+        }
+        form input[type="text"], form select {
+            width: calc(100% - 20px);
+            padding: 10px;
+            margin-bottom: 15px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        form button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        form button:hover {
+            background-color: #45a049;
+        }
+        .results {
+            margin-top: 20px;
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-radius: 4px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+        .results h2 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .results p {
+            margin: 5px 0;
+        }
+        .error {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Query Climate Data</h1>
+        <form id="queryForm" method="POST">
+            {% csrf_token %}
+            <label for="id_year">Year:</label>
+            <select id="id_year" name="year" required>
+                <option value="">Select Year</option>
+                {% for year, _ in form.fields.year.choices %}
+                    <option value="{{ year }}">{{ year }}</option>
+                {% endfor %}
+            </select>
+            <br>
+            <label for="id_season">Season:</label>
+            <select id="id_season" name="season" required>
+                <option value="">Select Season</option>
+                {% for season, _ in form.fields.season.choices %}
+                    <option value="{{ season }}">{{ season }}</option>
+                {% endfor %}
+            </select>
+            <br>
+            <button type="submit">Submit</button>
+        </form>
+        {% if climate_data %}
+            <div class="results">
+                <h2>Results for {{ year }} - {{ season }}</h2>
+                <p>Rainfall (mm): {{ climate_data.rainfall_mm }}</p>
+                <p>% Change of Rainfall with respect to 2024: {{ climate_data.rainfall_change_percentage }}</p>
+                <p>Temperature (Degree Celsius): {{ climate_data.temperature_celsius }}</p>
+                <p>Change of Temperature (Degree Celsius) with respect to 2024: {{ climate_data.temperature_change_celsius }}</p>
+            </div>
+        {% elif error %}
+            <div class="error">{{ error }}</div>
+        {% endif %}
+    </div>
+
+    
+</body>
+</html>
