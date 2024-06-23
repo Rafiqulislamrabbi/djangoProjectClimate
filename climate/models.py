@@ -9,4 +9,4 @@ class ClimateData(models.Model):
     temperature_change_celsius = models.FloatField()
 
     def __str__(self):
-        return f"{self.year} - {self.season}"
+        return f"{self.year} - {self.season}---{self.rainfall_mm} --- {self.rainfall_change_percentage}--{self.temperature_change_celsius}---{self.temperature_celsius}"
