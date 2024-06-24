@@ -1,82 +1,114 @@
-<!-- climate/templates/climate/query_climate_data.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Climate Data Query</title>
+    <title>Weather Prediction House</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f0f0f0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #e0f7fa;
             margin: 0;
             padding: 0;
         }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            margin-top: 4%;
-        }
-        h1 {
+        .header {
+            background-color: #00796b;
+            color: #ffffff;
             text-align: center;
-            color: #333;
+            padding: 40px 20px;
+            box-shadow: 0 0 10px rgba(245, 241, 241, 0.1);
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .header p{
+            margin-left: 17%;
+            margin-right: 17%;
+            text-align: left;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto 40px auto;
+            background-color: #ffffff;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        }
+        h2 {
+            text-align: center;
+            color: #f6f6f6;
         }
         form {
-            margin-bottom: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         form label {
             font-weight: bold;
-            display: block;
-            margin-bottom: 8px;
+            margin-bottom: 10px;
         }
-        form input[type="text"], form select {
-            width: calc(100% - 20px);
+        form select {
+            width: 50%;
             padding: 10px;
-            margin-bottom: 15px;
-            border: 1px solid #ccc;
-            border-radius: 4px;
+            margin-bottom: 20px;
+            border: 2px solid #004d40;
+            border-radius: 8px;
             font-size: 16px;
         }
         form button {
-            padding: 10px 20px;
-            background-color: #4CAF50;
+            padding: 12px 24px;
+            background-color: #00796b;
             color: #fff;
             border: none;
             cursor: pointer;
-            border-radius: 4px;
-            font-size: 16px;
+            border-radius: 8px;
+            font-size: 18px;
         }
         form button:hover {
-            background-color: #45a049;
+            background-color: #004d40;
         }
         .results {
-            margin-top: 20px;
-            background-color: #f9f9f9;
-            padding: 15px;
-            border-radius: 4px;
-            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+            margin-top: 40px;
+            background-color: #f1f8e9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        .results h2 {
-            color: #333;
-            margin-bottom: 10px;
+        .results table {
+            width: 100%;
+            border-collapse: collapse;
         }
-        .results p {
-            margin: 5px 0;
+        .results th, .results td {
+            border: 1px solid #004d40;
+            padding: 12px;
+            text-align: center;
+        }
+        .results th {
+            background-color: #00796b;
+            color: #ffffff;
+        }
+        .results td {
+            background-color: #e0f2f1;
         }
         .error {
             color: red;
             font-weight: bold;
+            text-align: center;
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
+    <div class="header">
+        <h1>Weather Prediction House</h1>
+        <br>
+        <h2>Predicting future change of seasonal rainfall and temperature in Bangladesh using Machine Learning Models.</h2>
+        <p>Welcome to Weather Prediction House! This website will offer you future seasonal prediction of rainfall and temperature for the next 50 years. It can serve you in research purposes as well as policy making in weather, agriculture, and water resources sectors. Are you interested to get the predicted future rainfall and temperature for any specific year and season? Then select the year and season given below!</p>
+    </div>
     <div class="container">
-        <h1>Query Climate Data</h1>
+        <h2 style="color: black;">Query Climate Data</h2>
         <form id="queryForm" method="POST">
             {% csrf_token %}
             <label for="id_year">Year:</label>
@@ -86,7 +118,6 @@
                     <option value="{{ year }}">{{ year }}</option>
                 {% endfor %}
             </select>
-            <br>
             <label for="id_season">Season:</label>
             <select id="id_season" name="season" required>
                 <option value="">Select Season</option>
@@ -94,22 +125,37 @@
                     <option value="{{ season }}">{{ season }}</option>
                 {% endfor %}
             </select>
-            <br>
             <button type="submit">Submit</button>
         </form>
         {% if climate_data %}
             <div class="results">
-                <h2>Results for {{ year }} - {{ season }}</h2>
-                <p>Rainfall (mm): {{ climate_data.rainfall_mm }}</p>
-                <p>% Change of Rainfall with respect to 2024: {{ climate_data.rainfall_change_percentage }}</p>
-                <p>Temperature (Degree Celsius): {{ climate_data.temperature_celsius }}</p>
-                <p>Change of Temperature (Degree Celsius) with respect to 2024: {{ climate_data.temperature_change_celsius }}</p>
+                <h2 style="color: black;">Results for {{ year }} - {{ season }}</h2>
+                <table>
+                    <tr>
+                        <th>Parameter</th>
+                        <th>Value</th>
+                    </tr>
+                    <tr>
+                        <td>Rainfall (mm)</td>
+                        <td>{{ climate_data.rainfall_mm }}</td>
+                    </tr>
+                    <tr>
+                        <td>% Change of Rainfall with respect to 2024</td>
+                        <td>{{ climate_data.rainfall_change_percentage }}</td>
+                    </tr>
+                    <tr>
+                        <td>Temperature (Degree Celsius)</td>
+                        <td>{{ climate_data.temperature_celsius }}</td>
+                    </tr>
+                    <tr>
+                        <td>Change of Temperature (Degree Celsius) with respect to 2024</td>
+                        <td>{{ climate_data.temperature_change_celsius }}</td>
+                    </tr>
+                </table>
             </div>
         {% elif error %}
             <div class="error">{{ error }}</div>
         {% endif %}
     </div>
-
-    
 </body>
 </html>
